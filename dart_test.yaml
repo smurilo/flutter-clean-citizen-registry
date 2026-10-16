@@ -1,0 +1,4 @@
+tags:
+  live:
+    # Hits the real ViaCEP/IBGE services. Run with: flutter test --tags live
+    skip: "rede externa — execute com --tags live"
